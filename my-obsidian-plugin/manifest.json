@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-webdav-sync",
+	"name": "Obsidian WebDAV Sync",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "双向实时的 WebDAV 同步插件，支持冲突解决、日志与自动同步设置。",
+	"author": "Your Name",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
